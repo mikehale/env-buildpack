@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "=== being env ==="
+env
+echo "=== end env ==="
+
+echo "=== begin file system ==="
+find /
+echo "=== end file system ==="
